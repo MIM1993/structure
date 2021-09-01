@@ -1,0 +1,2 @@
+# structure
+rust structure
